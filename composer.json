@@ -1,0 +1,22 @@
+{
+  "name": "stagem/magento-activated-slider",
+  "type": "magento-module",
+  "license":"MIT Licence",
+  "description":"Base Module for AW",
+  "authors":[{
+    "name":"Serhii Popov",
+    "email":"popow.sergiy@gmail.com"
+  }],
+  "extra": {
+    "map": [
+      ["app/etc/modules/Activated_Slider.xml", "app/etc/modules/Activated_Slider.xml"],
+      ["app/code/community/Activated/Slider/", "app/code/community/Activated/Slider/"],
+      ["app/design/adminhtml/default/default/layout/activated_slider.xml", "app/design/adminhtml/default/default/layout/activated_slider.xml"],
+      ["app/design/adminhtml/default/default/template/slider/form.phtml", "app/design/adminhtml/default/default/template/slider/form.phtml"],
+      ["app/design/frontend/base/default/layout/activated_slider.xml", "app/design/frontend/base/default/layout/activated_slider.xml"],
+      ["app/design/frontend/base/default/template/activated", "app/design/frontend/base/default/template/activated"],
+      ["skin/frontend/base/default/css/activated", "skin/frontend/base/default/css/activated"],
+      ["skin/frontend/base/default/js/activated", "skin/frontend/base/default/js/activated"]
+    ]
+  }
+}
