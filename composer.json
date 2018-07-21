@@ -14,9 +14,9 @@
       ["app/design/adminhtml/default/default/layout/activated_slider.xml", "app/design/adminhtml/default/default/layout/activated_slider.xml"],
       ["app/design/adminhtml/default/default/template/slider/form.phtml", "app/design/adminhtml/default/default/template/slider/form.phtml"],
       ["app/design/frontend/base/default/layout/activated_slider.xml", "app/design/frontend/base/default/layout/activated_slider.xml"],
-      ["app/design/frontend/base/default/template/activated/", "app/design/frontend/base/default/template/activated"],
-      ["skin/frontend/base/default/css/activated/", "skin/frontend/base/default/css/activated"],
-      ["skin/frontend/base/default/js/activated/", "skin/frontend/base/default/js/activated"]
+      ["app/design/frontend/base/default/template/activated/", "app/design/frontend/base/default/template/activated/"],
+      ["skin/frontend/base/default/css/activated/", "skin/frontend/base/default/css/activated/"],
+      ["skin/frontend/base/default/js/activated/", "skin/frontend/base/default/js/activated/"]
     ]
   }
 }
